@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to InvisibleThings
 
 You can use the [editor on GitHub](https://github.com/invisiblethings/invisiblethings/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
